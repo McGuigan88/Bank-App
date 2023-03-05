@@ -31,4 +31,5 @@ meeting with the client.
     2. The app should undergo basic testing and quality assurance before
     launch to ensure its stability and performance.
     
+ Entity relationship diagram:
 ![erd BankDB](https://user-images.githubusercontent.com/60005842/222983737-055a0596-b979-421b-903d-d1273311d7d7.png)
